@@ -58,7 +58,7 @@
 		src="/static/audio/introduction.mp3" autoplay="autoplay"></audio>
 	<audio id="poem" src="/static/audio/wanderingEarch-poem.mp3"
 		preload="auto"></audio>
-    <span id="firstline" style="font-size: 22px; color: white">大家好，我 与这学期学习“软件工程导论”的学生们准备设计和实现一个“<span
+    <span id="firstline" style="font-size: 22px; color: white">大家好，我与这学期学习“软件工程导论”的学生们准备设计和实现一个“<span
 		style="font-size: 38px; color: red">流浪地球</span>”的模拟工程！ 欢迎大家观赏,谢谢！点击屏幕左下角的地球，可以开始悲壮的流浪！！
 	</span>
 	<audio id="waiting" src="/static/audio/waiting.mp3" preload="auto" onended="onWaitingAudioEnd();"></audio>
